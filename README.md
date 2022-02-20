@@ -9,13 +9,18 @@
 - ⚡ Fun fact: I like to go to the gym and play football
 
 ### Connect with me:
-[![twitter](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/youtube-dark.svg)]
+
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/youtube-dark.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/twitter-dark.svg)]
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/twitter-dark.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg)]
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/instagram-dark.svg)]
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### Languages and Tools:
 
