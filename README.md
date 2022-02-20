@@ -11,12 +11,8 @@
 ### Connect with me:
 
 [![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/twitter-dark.svg)](https://twitter.com/vanscheurs)
-[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/twitter-dark.svg)](https://twitter.com/vanscheurs)
 &nbsp;&nbsp;
 [![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg)](https://www.linkedin.com/in/sander-van-schoors-523b33220/)
-[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg)](https://www.linkedin.com/in/sander-van-schoors-523b33220/)
-&nbsp;&nbsp;
-[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/instagram-dark.svg)](https://instagram.com/sandervanschoors)
 [![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/instagram-dark.svg)](https://instagram.com/sandervanschoors)
 
 ### Languages and Tools:
