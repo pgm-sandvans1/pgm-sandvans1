@@ -9,9 +9,13 @@
 - ⚡ Fun fact: I like to go to the gym and play football
 
 ### Connect with me:
-(https://github.com/codeSTACKr/codeSTACKr/raw/master/img/youtube-dark.svg)
-
-
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/youtube-dark.svg)]
+&nbsp;&nbsp;
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/twitter-dark.svg)]
+&nbsp;&nbsp;
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg)]
+&nbsp;&nbsp;
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/instagram-dark.svg)]
 
 ### Languages and Tools:
 
