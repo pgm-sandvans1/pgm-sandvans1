@@ -2,7 +2,7 @@
 
 ## I currently study programming at Arteveldehogeschool and programming is my passion!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- 🔭 Junior Programmer at Arteveldehogeschool!
 - 🌱 I’m currently learning advanced programming 🤣
 - 👯 I’m looking to connect with other fellow student programmers
 - 🥅 2022 Goals: Become better in the skills of programming
